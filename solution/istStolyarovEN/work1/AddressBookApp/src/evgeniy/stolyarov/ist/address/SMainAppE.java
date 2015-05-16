@@ -162,7 +162,7 @@ public class SMainAppE extends Application {
     }
 
     /**
-     * Opens a dialog to show birthday statistics.
+     * Opens a dialog to show birthday statistics..
      */
     public void sShowBirthdayStatisticsE() {
         try {
